@@ -1,3 +1,7 @@
+# Customer Churn Analysis
+# Goal: Identify key factors driving customer churn
+# Dataset: Telco Customer Churn (7043 records)
+# Tools: Python, Pandas, SQLite, Matplotlib, Seaborn
 -- Churn rate by contract type
 SELECT Contract,
        COUNT(*) AS total,
